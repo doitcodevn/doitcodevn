@@ -8,22 +8,17 @@ Recommended assets:
 
 <p align="center">
   <img
-    src="./assets/brand/doitcode-background.png"
+    src="https://res.cloudinary.com/daeujp0ex/image/upload/v1794409438/youtube-bg.png"
     alt="DoItCode — Creative & Engineering Lab"
     width="100%"
   />
 </p>
 
+<h3 align="center">Your idea. A head start.</h3>
+
 <p align="center">
-  <img
-    src="./assets/brand/doitcode-logo.png"
-    alt="DoItCode logo"
-    width="180"
-  />
+  Explore source code, templates and boilerplates for a faster start. Preview a project, find your fit and make it your own.
 </p>
-
-<h3 align="center">Build with Purpose. Share with Passion.</h3>
-
 <p align="center">
   A Creative & Engineering Lab building practical digital products,
   reusable templates, and developer-focused solutions.
