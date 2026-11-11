@@ -23,6 +23,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="45%" />
+</p>
 
 <h3 align="center">WHAT WE BUILD</h3>
 
@@ -52,7 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Developer coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="45%" />
 </p>
 
 <h3 align="center">BUILT TO BE USED. MADE TO BE SHARED.</h3>
